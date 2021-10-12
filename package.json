@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ColtonFalkner/Node-Course#readme",
   "devDependencies": {
     "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "slugify": "~1.6.1"
   }
 }
